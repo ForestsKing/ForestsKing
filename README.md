@@ -5,8 +5,8 @@
 - 📫 Feel free to contact me at cswang@bupt.edu.cn for discussions and collaborations!
 
 <a>
-  <img height=200 width=375 align="center" src="https://github-readme-stats.vercel.app/api?username=ForestsKing"/>
+  <img height=200 width=370 align="center" src="https://github-readme-stats.vercel.app/api?username=ForestsKing"/>
 </a>
 <a>
-  <img height=200 width=460 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ForestsKing&theme=github-light"/>
+  <img height=200 width=450 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ForestsKing&theme=github-light"/>
 </a>
