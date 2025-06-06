@@ -5,7 +5,7 @@
 - 📫 Feel free to contact me at cswang@bupt.edu.cn for discussions and collaborations!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ForestsKing&include_all_commits=true&show_icons=true&rank_icon=percentile&cache_seconds=1800" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ForestsKing&include_all_commits=true&show_icons=true&rank_icon=github&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
